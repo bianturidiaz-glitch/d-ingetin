@@ -1,535 +1,166 @@
-# D-ingetin
-
-## Tagline
-
-Biar hidup gak semuanya diingat sendiri.
-
----
-
-# Overview
-
-D-ingetin adalah aplikasi reminder dan kolaborasi kehidupan sehari-hari yang membantu individu, keluarga, pasangan, teman kos, dan tim kecil mengelola berbagai aktivitas penting melalui reminder, notifikasi, dan fitur berbagi pengingat.
-
-D-ingetin lahir dari masalah sederhana:
-
-Semakin dewasa, semakin banyak hal yang harus diingat.
-
-Mulai dari:
-
-- Bayar tagihan
-- BPJS
-- Servis kendaraan
-- STNK
-- Janji temu
-- Belanja rumah
-- Follow up pekerjaan
-- Meeting tim
-
-Banyak orang mengalami mental load karena harus mengingat semuanya sendiri.
-
-D-ingetin hadir untuk membantu mengurangi beban tersebut.
-
----
-
-# Vision
-
-Menjadi aplikasi reminder dan koordinasi kehidupan yang membantu orang menjalani hidup lebih teratur tanpa merasa terbebani.
-
----
-
-# Product Positioning
-
-Bukan:
-
-- Trello
-- Asana
-- Jira
-- Project Management Tool
-
-Tetapi:
-
-Life Reminder & Collaboration App
-
-Fokus pada:
-
-- Personal Life
-- Family Life
-- Couple Life
-- Small Team Coordination
-
----
-
-# Target Users
-
-## Individu
-
-Kebutuhan:
-
-- Reminder pribadi
-- Tagihan
-- Kesehatan
-- Kendaraan
-
----
-
-## Pasangan
-
-Kebutuhan:
-
-- Berbagi pengingat
-- Keuangan rumah tangga
-- Jadwal keluarga
-
----
-
-## Keluarga
-
-Kebutuhan:
-
-- Aktivitas keluarga
-- Jadwal kontrol kesehatan
-- Kebutuhan rumah
-
----
-
-## Tim Kecil
-
-Kebutuhan:
-
-- Meeting
-- Deadline
-- Follow Up
-- Reminder Operasional
-
----
-
-# Core Features
-
-## Reminder
-
-User dapat membuat reminder:
-
-- Judul
-- Deskripsi
-- Tanggal
-- Waktu
-- Prioritas
-- Kategori
-
-Status:
-
-- Pending
-- In Progress
-- Completed
-
-Repeat:
-
-- Daily
-- Weekly
-- Monthly
-- Custom
-
----
-
-# Categories
-
-## Personal
-
-- Finansial
-- Kendaraan
-- Rumah
-- Kesehatan
-- Langganan
-
-## Collaboration
-
-- Keluarga
-- Pasangan
-- Teman Kos
-
-## Work
-
-- Kerja
-- Tim
-
----
-
-# Dashboard
-
-## Fokus Hari Ini
-
-Menampilkan reminder penting hari ini.
-
----
-
-## Besok
-
-Microcopy:
-
-"Besok mau kerjain apa ya? 😌"
-
-Menampilkan preview reminder besok.
-
----
-
-## Upcoming This Week
-
-Reminder dalam 7 hari ke depan.
-
----
-
-## Priority
-
-- Hari Ini
-- Mendesak
-- Minggu Ini
-
----
-
-# Quick Actions
-
-- Bayar
-- Tagihan
-- Meeting
-- Deadline
-- Follow Up
-- Belanja
-- Janjian
-- Servis
-
-Saat dipilih:
-
-- Kategori otomatis
-- Judul otomatis
-
-User hanya perlu memilih tanggal dan waktu.
-
----
-
-# Smart Suggestions
-
-Contoh:
-
-Jika memilih:
-
-Tagihan
-
-Muncul:
-
-- Wifi
-- Listrik
-- Air
-- Netflix
-
----
-
-# Notification System
-
-Contoh:
-
-- Wifi jangan sampai mati 😅
-- Saatnya bayar BPJS
-- STNK motor kamu bentar lagi expired
-
-Mendukung:
-
-- Browser Notification
-- Mobile Notification
-- PWA Notification
-
----
-
-# Diingetin Bareng
+Build a complete landing page website for a startup called "D-ingetin".
 
 Tagline:
+"Biar hidup gak semuanya diingat sendiri."
 
-Diingetin Bareng 😌
+Language:
+Bahasa Indonesia
 
-Login untuk berbagi pengingat dengan keluarga atau orang terdekat.
+Design Style:
 
----
+* Modern
+* Mobile First
+* Startup Landing Page
+* Soft Blue Theme
+* White Background
+* Rounded Cards
+* Clean Typography
+* Friendly and Warm Feeling
 
-# Shared Workspace
+Goal:
+Introduce D-ingetin and collect beta tester interest.
 
-Workspace:
+Sections:
 
-- Keluarga
-- Pasangan
-- Teman Kos
-- Tim Kerja
+1. HERO SECTION
 
-Fitur:
+Title:
+D-ingetin
 
-- Invite Member
-- Shared Reminder
-- Shared Dashboard
+Subtitle:
+Biar hidup gak semuanya diingat sendiri.
 
----
+Description:
+Semakin dewasa, semakin banyak hal yang harus diingat.
 
-# Reminder Assignment
+Mulai dari tagihan, BPJS, servis kendaraan, janji temu, hingga pekerjaan sehari-hari.
 
-Reminder dapat ditugaskan kepada:
+D-ingetin membantu kamu mengingat, berbagi pengingat, dan menjalani hidup lebih teratur.
 
-- Satu orang
-- Banyak orang
-- Semua anggota workspace
+CTA Button:
+"Coba Beta Gratis"
 
-Status:
+Secondary CTA:
+"Pelajari Lebih Lanjut"
 
-- Pending
-- In Progress
-- Completed
+2. PROBLEM SECTION
 
----
+Title:
+Pernah Mengalami Ini?
 
-# Shared Notification
+Cards:
 
-Semua anggota mendapatkan:
+* Lupa bayar tagihan
+* Lupa servis kendaraan
+* Lupa janji penting
+* Lupa follow up pekerjaan
+* Terlalu banyak hal yang harus diingat
 
-- Reminder baru
-- Update reminder
-- Reminder selesai
+Add simple icons for each card.
 
----
+3. SOLUTION SECTION
 
-# Activity Feed
+Title:
+Kenalan Dengan D-ingetin
 
-Contoh:
+Description:
+D-ingetin adalah aplikasi reminder dan kolaborasi kehidupan sehari-hari.
 
-Diaz membuat reminder baru.
+Bukan hanya membantu mengingat, tetapi juga membantu keluarga, pasangan, dan tim kecil saling mengingatkan.
 
-Budi menyelesaikan reminder Meeting Tim.
+4. FEATURES SECTION
 
----
+Feature Cards:
 
-# Team Collaboration
+Reminder Pintar
+Buat pengingat penting dalam hitungan detik.
 
-Fitur:
+Diingetin Bareng
+Bagikan pengingat dengan keluarga atau orang terdekat.
 
-- Meeting Reminder
-- Follow Up Reminder
-- Deadline Reminder
-- Team Reminder
+Fokus Hari Ini
+Lihat hal-hal yang benar-benar penting hari ini.
 
-Tetap ringan dan tidak berubah menjadi project management tool.
+Besok Mau Kerjain Apa Ya?
+Preview aktivitas penting untuk esok hari.
 
----
+Notifikasi Ramah
+Pengingat yang terasa membantu, bukan mengganggu.
 
-# Search
+Dark Mode
+Nyaman digunakan siang maupun malam.
 
-Pencarian berdasarkan:
+5. HOW IT WORKS
 
-- Judul
-- Kategori
-- Member
-- Workspace
+Step 1
+Buat Pengingat
 
----
+Step 2
+Atur Waktu
 
-# Emotional Experience
+Step 3
+Terima Notifikasi
 
-Microcopy:
+Step 4
+Hidup Lebih Teratur
 
-Pelan-pelan hidup jadi lebih tertata 😌
+6. TARGET USERS
 
-Hari ini cukup fokus ke hal penting aja.
+Cards:
 
-Good job keeping life organized ✨
+Individu
+Pasangan
+Keluarga
+Tim Kecil
 
-Besok ada beberapa hal yang perlu diberesin ✨
+7. FUTURE VISION
 
----
+Title:
+Lebih Dari Sekadar Reminder
 
-# Empty State
+Description:
+D-ingetin sedang dikembangkan menjadi platform kolaborasi kehidupan yang membantu orang mengatur aktivitas pribadi, keluarga, dan pekerjaan secara sederhana.
 
-Hari ini cukup tenang 😌
+8. BETA TESTER SECTION
 
-Belum ada yang perlu diurus hari ini ✨
+Title:
+Jadi Pengguna Pertama D-ingetin
 
----
+Description:
+Daftarkan email untuk mendapatkan akses beta lebih awal.
 
-# Completion Celebration
+Form Fields:
 
-Hari ini udah cukup produktif ✨
+* Nama
+* Email
 
-Satu hal lagi berhasil diberesin 😌
+Button:
+"Saya Mau Coba"
 
----
+Store data temporarily in browser local storage only.
 
-# Dark Mode
+No backend required.
 
-Fitur:
+9. FOOTER
 
-- Dark Mode
-- Soft Contrast
-- Mobile Friendly
+Product:
+D-ingetin
 
----
+Tagline:
+Biar hidup gak semuanya diingat sendiri.
 
-# Swipe Actions
+Copyright:
+© 2026 D-ingetin
 
-- Complete
-- Snooze
-- Delete
+10. EXTRA REQUIREMENTS
 
-Snooze:
+* Responsive mobile layout
+* Smooth scrolling
+* Simple fade animations
+* Sticky navigation bar
+* FAQ section
+* Modern startup appearance
+* Fast loading
+* SEO friendly
 
-- 1 Jam Lagi
-- Nanti Malam
-- Besok Pagi
-- Minggu Depan
-
----
-
-# Feedback
-
-Menu:
-
-Bantu D-ingetin Lebih Baik 💡
-
-Form:
-
-- Nama
-- Email
-- Feedback
-
-Simpan ke Firestore.
-
----
-
-# About Page
-
-D-ingetin dibuat karena semakin dewasa, semakin banyak hal yang harus diingat.
-
-Mulai dari tagihan, keluarga, hingga pekerjaan sehari-hari.
-
-D-ingetin hadir untuk membantu mengurangi beban tersebut agar hidup terasa lebih ringan.
-
----
-
-# Authentication
-
-Firebase Authentication
-
-- Google Login
-- Guest Mode
-- Logout
-
-Benefit Login:
-
-- Backup Data
-- Shared Reminder
-- Workspace
-- Collaboration
-
----
-
-# Database
-
-Firebase Firestore
-
-Collection:
-
-- users
-- reminders
-- workspaces
-- assignments
-- notifications
-- feedback
-
----
-
-# Technology
-
-Frontend:
-
-- Next.js
-- React
-- Tailwind
-
-Backend:
-
-- Firebase
-
-Authentication:
-
-- Firebase Auth
-
-Database:
-
-- Firestore
-
-Hosting:
-
-- Firebase Hosting
-
----
-
-# PWA
-
-Installable Application
-
-- App Icon
-- Splash Screen
-- Offline Ready
-- Mobile Optimized
-
----
-
-# Success Metrics
-
-- Total Reminder Created
-- Shared Reminder Created
-- Workspace Created
-- Active Users
-- Reminder Completion Rate
-
----
-
-# Roadmap
-
-## Phase 1
-
-- Reminder
-- Notification
-- Categories
-- Dashboard
-
-## Phase 2
-
-- Shared Reminder
-- Workspace
-- Assignment
-
-## Phase 3
-
-- Realtime Collaboration
-- Shared Notification
-- Activity Feed
-
-## Phase 4
-
-- Android App
-- iOS App
-- AI Reminder Assistant
-
----
-
-# USP
-
-Reminder bukan hanya untuk diri sendiri.
-
-D-ingetin membantu pengguna:
-
-- Mengingat
-- Berbagi
-- Berkolaborasi
-- Menjalani hidup lebih teratur
-
-Tanpa terasa seperti aplikasi manajemen proyek yang rumit.
-
----
-
-# Elevator Pitch
-
-D-ingetin adalah aplikasi reminder dan kolaborasi kehidupan yang membantu individu, keluarga, pasangan, dan tim kecil mengelola berbagai aktivitas penting sehari-hari melalui reminder, notifikasi, dan fitur berbagi pengingat dalam satu platform yang sederhana, hangat, dan mudah digunakan.
+Create as a complete landing page ready for GitHub Pages deployment.
